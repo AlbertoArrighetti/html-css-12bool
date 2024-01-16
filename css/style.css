@@ -1,0 +1,26 @@
+.container{
+    max-width: 2000px;
+}
+.mb{
+    margin-bottom: 30px;
+}
+
+
+.center{
+    padding: 22px;
+    
+    text-align: center;
+
+    color: white;
+}
+.center.big{
+    padding: 44px;
+}
+.blue{
+    background-color: #006cfa;
+    border: 1px solid white;
+}
+.green{
+    background-color: #00e165;
+    border: 1px solid #006cfa;
+}
